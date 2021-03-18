@@ -1,6 +1,6 @@
-#Review Info React App
+# Review Info React App
 I practice the app with FreeCodeCamp.org's setup folder.
-#Working Flow
+# Working Flow
 This component work with parent to children component by rendaring props.
-#React Hooks
+# React Hooks
 usState
